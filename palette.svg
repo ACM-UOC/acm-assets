@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#FFFFFF" />
+  <rect x="28" y="28" width="584" height="424" rx="12" fill="#FAFAFA" stroke="#E5E5E5" stroke-opacity="0.6" stroke-width="1" />
+  <g>
+    <rect x="44.8" y="44.8" width="242.68" height="194.32" rx="12" fill="#1F5174" />
+    <text x="56.8" y="227.12" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="12" fill="#FFFFFF" opacity="0.85">#1F5174</text>
+    <text x="56.8" y="211.12" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#FFFFFF">Prussian Blue</text>
+    <rect x="44.8" y="254.992" width="242.68" height="147.208" rx="11.77664" fill="#F1D364" />
+    <text x="56.8" y="390.2" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="11.77664" fill="#111111" opacity="0.85">#F1D364</text>
+    <text x="56.8" y="374.42336" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="17.66496" font-weight="600" fill="#111111">Golden Sand</text>
+    <rect x="308.992" y="44.8" width="281.20799999999997" height="60.232" rx="4.81856" fill="#D97F6D" />
+    <text x="320.992" y="93.032" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="8" fill="#111111" opacity="0.85">#D97F6D</text>
+    <text x="320.992" y="81.032" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#111111">Froly</text>
+    <rect x="308.992" y="119.09199999999998" width="281.20799999999997" height="60.232" rx="4.81856" fill="#66DBAB" />
+    <text x="320.992" y="167.32399999999998" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="8" fill="#111111" opacity="0.85">#66DBAB</text>
+    <text x="320.992" y="155.32399999999998" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#111111">Medium Aquamarine</text>
+    <rect x="308.992" y="193.384" width="281.20799999999997" height="60.232" rx="4.81856" fill="#292E33" />
+    <text x="320.992" y="241.61599999999999" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="8" fill="#FFFFFF" opacity="0.85">#292E33</text>
+    <text x="320.992" y="229.61599999999999" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#FFFFFF">Mine Shaft</text>
+    <rect x="308.992" y="267.676" width="281.20799999999997" height="60.232" rx="4.81856" fill="#7A8898" />
+    <text x="320.992" y="315.908" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="8" fill="#111111" opacity="0.85">#7A8898</text>
+    <text x="320.992" y="303.908" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#111111">Asbestos</text>
+    <rect x="308.992" y="341.96799999999996" width="281.20799999999997" height="60.232" rx="4.81856" fill="#CBDDF2" />
+    <text x="320.992" y="390.19999999999993" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="8" fill="#111111" opacity="0.85">#CBDDF2</text>
+    <text x="320.992" y="378.19999999999993" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="10" font-weight="600" fill="#111111">Gainsboro</text>
+  </g>
+    <line x1="48" y1="424" x2="592" y2="424" stroke="#E0E0E0" stroke-width="1" />
+    <text x="48" y="441.3333333333333" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="10" fill="#666666" letter-spacing="0.5">PALETTE</text>
+    <text x="592" y="441.3333333333333" font-family="Inter, &quot;SF Pro Display&quot;, system-ui, -apple-system, sans-serif" font-size="10" fill="#666666" text-anchor="end" letter-spacing="0.5">ACM UOC</text>
+</svg>
