@@ -4,11 +4,14 @@
 <svg
    version="1.1"
    id="svg1"
-   width="1731.2208"
+   width="1731.2209"
    height="1731.2208"
-   viewBox="0 0 1731.2208 1731.2208"
+   viewBox="0 0 1731.2209 1731.2208"
    sodipodi:docname="acm-uoc.svg"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   inkscape:export-filename="acm-uoc_1024x1024.png"
+   inkscape:export-xdpi="56.783051"
+   inkscape:export-ydpi="56.783051"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,14 +26,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.58282571"
-     inkscape:cx="827.86328"
-     inkscape:cy="1311.7129"
+     inkscape:cx="661.43273"
+     inkscape:cy="886.19975"
      inkscape:window-width="2240"
      inkscape:window-height="1202"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="g1" />
   <defs
      id="defs1">
     <rect
@@ -69,19 +72,19 @@
        inkscape:label="Outer Rect" />
     <path
        id="rect4"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.931234"
-       d="m 451.80078,830.63477 v 38.41211 h 945.39842 v -38.41211 z m -32.85547,57.92773 v 47.61914 H 1430.0547 V 888.5625 Z m 147.41211,67.13672 v 69.83988 h 69.8418 v -69.83988 z m 92.34961,0 v 69.83988 h 69.83985 v -69.83988 z m 92.34766,0 v 69.83988 h 69.84179 v -69.83988 z m 92.34961,0 v 69.83988 h 69.84179 v -69.83988 z m 92.34961,0 v 69.83988 h 69.84179 v -69.83988 z m 92.34959,0 v 69.83988 h 69.8418 v -69.83988 z m 92.3496,0 v 69.83988 h 69.8399 v -69.83988 z m 92.3477,0 v 69.83988 h 69.8418 v -69.83988 z m -759.42775,1.58594 v 66.66794 h 90.47656 v -66.66794 z m 851.77735,0 v 66.66794 h 90.4766 v -66.66794 z m -886.20509,87.76954 v 47.6191 H 1430.0547 v -47.6191 z m 39.97657,67.1348 v 22.2246 h 33.33203 v 48.125 h 128.57226 v -48.125 h 33.33399 v -22.2246 z m 214.48632,0 v 43.9589 h -31.50781 v 47.0957 h -19.17773 v 417.2871 h 235.5957 v -130.0546 h 20.94336 v 129.8046 h 90.47656 v -129.8046 h 20.94336 v 130.0546 h 235.59566 v -417.2871 h -19.1777 v -47.0957 h -31.5078 v -43.9589 h -134.2246 v 43.9589 h -31.5078 v 47.0957 h -19.17776 v 93.5821 h -20.94336 v -92.418 h -90.47656 v 92.418 h -20.94336 v -93.5821 h -19.17774 v -47.0957 h -31.50781 v -43.9589 z m 153.47266,0 v 22.2246 h 33.33203 v 48.125 h 128.57227 v -48.125 h 33.33394 v -22.2246 z m 367.95894,0 v 22.2246 h 33.3321 v 48.125 h 128.5722 v -48.125 h 33.334 v -22.2246 z m -683.53707,92.1757 v 593.6504 h 90.47461 v -593.6504 z m 735.91997,0.6993 v 593.6503 h 90.4746 v -593.6503 z"
        clip-path="url(#clipPath89)"
-       inkscape:label="Palace" />
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.931234"
+       inkscape:label="Palace"
+       d="m 451.80173,830.63571 v 38.41211 h 945.39847 v -38.41211 z m -32.85547,57.92774 v 47.61914 H 1430.0556 v -47.61914 z m 147.41211,67.13672 V 1025.54 h 69.8418 v -69.83983 z m 92.34961,0 V 1025.54 h 69.83984 v -69.83983 z m 92.34766,0 V 1025.54 h 69.84179 v -69.83983 z m 92.34961,0 V 1025.54 h 69.84179 v -69.83983 z m 92.3496,0 V 1025.54 h 69.84185 v -69.83983 z m 92.34965,0 V 1025.54 h 69.8418 v -69.83983 z m 92.3496,0 V 1025.54 h 69.8398 v -69.83983 z m 92.3476,0 V 1025.54 h 69.8418 v -69.83983 z m -759.42771,1.58593 v 66.668 h 90.47657 v -66.668 z m 851.77731,0 v 66.668 h 90.4766 v -66.668 z m -886.20504,87.7695 v 47.6192 H 1430.0556 v -47.6192 z m 39.97656,67.1348 v 22.2246 h 33.33203 v 48.125 h 128.57227 v -48.125 h 33.33398 v -22.2246 z m 214.48633,0 v 43.957 h -31.50781 v 47.0957 H 622.7236 v 417.2871 h 235.59571 v -130.0527 h 20.94336 v 129.8027 h 90.47656 v -129.8027 h 20.94336 v 130.0527 h 235.59371 v -417.2871 h -19.1757 v -47.0957 h -31.5079 v -43.957 h -134.2246 v 43.957 h -31.5078 v 47.0957 h -19.17771 v 93.584 h -20.94336 v -92.4179 h -90.47656 v 92.4179 h -20.94336 v -93.584 h -19.17774 v -47.0957 h -31.50781 v -43.957 z m 153.47266,0 v 22.2246 h 33.33203 v 48.125 H 988.7861 v -48.125 h 33.332 v -22.2246 z m 367.95699,0 v 22.2246 h 33.334 v 48.125 h 128.5703 v -48.125 h 33.336 v -22.2246 z m -683.53512,92.1738 v 593.6524 h 90.47461 v -593.6524 z m 735.91992,0.7012 v 593.6484 h 90.4746 v -593.6484 z m -545.21679,435.7715 76.86328,76.8633 c 1.95344,1.9535 4.06446,3.6352 6.07422,5.4941 h 279.11129 c 2.0098,-1.8589 4.1209,-3.5406 6.0743,-5.4941 l 76.8632,-76.8633 z" />
     <text
        xml:space="preserve"
        id="text3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:#ffffff;fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#ffffff;fill-opacity:1"
        transform="matrix(1.985193,0,0,1.985193,-4744.6976,-617.48078)"
        inkscape:label="ACM"><tspan
          x="2652.9414"
          y="682.70779"
-         id="tspan3">acm</tspan></text>
+         id="tspan2">acm</tspan></text>
     <text
        xml:space="preserve"
        id="text3-8"
