@@ -4,14 +4,14 @@
 <svg
    version="1.1"
    id="svg1"
-   width="1731.2209"
-   height="1731.2208"
-   viewBox="0 0 1731.2209 1731.2208"
+   width="2000"
+   height="2000"
+   viewBox="0 0 1999.9999 2000"
    sodipodi:docname="acm-uoc.svg"
-   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
-   inkscape:export-filename="acm-uoc_1024x1024.png"
-   inkscape:export-xdpi="56.783051"
-   inkscape:export-ydpi="56.783051"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="acm-uoc-square_1024x1024.png"
+   inkscape:export-xdpi="49.152"
+   inkscape:export-ydpi="49.152"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.58282571"
-     inkscape:cx="661.43273"
-     inkscape:cy="886.19975"
-     inkscape:window-width="2240"
-     inkscape:window-height="1202"
+     inkscape:zoom="0.29141286"
+     inkscape:cx="590.22791"
+     inkscape:cy="1104.9615"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1" />
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1">
     <rect
@@ -55,10 +55,25 @@
          ry="205.95105"
          transform="rotate(-45)" />
     </clipPath>
+    <rect
+       x="2652.9412"
+       y="494.11765"
+       width="958.82355"
+       height="382.35294"
+       id="rect3-0" />
   </defs>
+  <rect
+     style="display:none;fill:#cbddf2;fill-opacity:1;stroke:none;stroke-width:27.1252;stroke-linejoin:round;stroke-dasharray:none"
+     id="rect1"
+     width="2000"
+     height="2000"
+     x="0"
+     y="0"
+     ry="0"
+     inkscape:label="Background" />
   <g
      id="g1"
-     transform="translate(-58.88962,-58.88962)"
+     transform="translate(75.499963,75.499963)"
      inkscape:label="Logo Group">
     <rect
        style="fill:#1f5174;fill-opacity:1;stroke:#000000;stroke-width:24;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.997821;paint-order:markers stroke fill"
@@ -79,20 +94,31 @@
     <text
        xml:space="preserve"
        id="text3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#ffffff;fill-opacity:1"
-       transform="matrix(1.985193,0,0,1.985193,-4744.6976,-617.48078)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;font-family:Inter;-inkscape-font-specification:'Inter, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#ffffff;fill-opacity:1"
+       transform="matrix(1.985193,0,0,1.985193,-4750.137,-701.54349)"
        inkscape:label="ACM"><tspan
          x="2652.9414"
-         y="682.70779"
-         id="tspan2">acm</tspan></text>
+         y="679.21108"
+         id="tspan3">acm</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3-5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;font-family:Inter;-inkscape-font-specification:'Inter, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#ffffff;fill-opacity:1"
+       transform="matrix(1.985193,0,0,1.985193,-4588.1309,-568.11611)"
+       inkscape:label="ACM"><tspan
+         x="2652.9414"
+         y="679.21108"
+         id="tspan5"><tspan
+           style="font-size:61.7908px"
+           id="tspan4">Chapter</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text3-8"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:203.236px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#1f5174;fill-opacity:1;stroke-width:1.01618"
-       x="691.99811"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:203.236px;font-family:Inter;-inkscape-font-specification:'Inter, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#1f5174;fill-opacity:1;stroke-width:1.01618"
+       x="692.86469"
        y="1466.3077"
        inkscape:label="UOC"><tspan
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:203.236px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1f5174;fill-opacity:1;stroke-width:1.01618">UOC</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:203.236px;font-family:Inter;-inkscape-font-specification:'Inter, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1f5174;fill-opacity:1;stroke-width:1.01618">UOC</tspan></text>
   </g>
 </svg>

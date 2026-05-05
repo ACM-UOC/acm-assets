@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logos/acm-uoc/acm-uoc_256x256.png" alt="ACM UOC Logo" width="160" />
   <h1>ACM UOC — Design Assets</h1>
-  <p>Central repository for all ACM-UOC design assets in source formats (SVG, Inkscape, templates), including branding, event graphics, and reusable materials.</p>
+  <p>Central repository for all ACM-UOC design assets in source formats, including branding, event graphics, and reusable materials.</p>
 </div>
 
 ---
