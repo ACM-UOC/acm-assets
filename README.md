@@ -11,6 +11,7 @@
 ```
 acm-assets/
 ├── logos/                # Vector logos and rasterized variations
+├── fonts/                # Typefaces used across our assets
 ├── media/
 │   ├── illustrations/    # Custom vector illustrations
 │   ├── photography/      # Event and promotional photos
@@ -29,6 +30,21 @@ acm-assets/
 <div align="center">
   <img src="palette.svg" alt="ACM UOC Color Palette" width="640" />
 </div>
+
+---
+
+## Fonts
+
+Our assets use three typefaces, bundled under `fonts/` so designers can install them locally and have SVG text render correctly:
+
+- **Inter** — sans-serif, used in the logo and most UI/branding.
+- **Baskervville** — serif, for editorial or formal contexts.
+- **Fira Mono** — monospace, for code snippets and technical material.
+
+Each subfolder ships the variable font(s) where available (or static cuts otherwise) plus their license files. Install the `.ttf` files on your system before opening the SVG sources.
+
+> [!WARNING]
+> Editors like Inkscape silently fall back to a default font when the requested one isn't installed — no error, no prompt. The file will *look* fine on screen but any text you edit (or re-export) will use the wrong typeface. Always install the fonts above before touching an SVG that contains text.
 
 ---
 
