@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="logos/acm-uoc/acm-uoc_256x256.png" alt="ACM UOC Logo" width="160" />
-  <h1>ACM UOC — Design Assets</h1>
-  <p>Central repository for all ACM-UOC design assets in source formats, including branding, event graphics, and reusable materials.</p>
+  <img src="logos/acm-uoc/acm-uoc_256x256.png" alt="University of Crete ACM Student Chapter logo" width="160" />
+  <h1>Design Assets</h1>
+  <p><strong>University of Crete ACM Student Chapter</strong></p>
+  <p>Central repository for our chapter's design assets in source formats, including branding, event graphics, and reusable materials.</p>
 </div>
 
 ---
@@ -28,7 +29,7 @@ acm-assets/
 ## Color Palette
 
 <div align="center">
-  <img src="palette.svg" alt="ACM UOC Color Palette" width="640" />
+  <img src="palette.svg" alt="Color palette" width="640" />
 </div>
 
 ---
@@ -86,5 +87,5 @@ acm-uoc-whitefill_256x256.png
 ---
 
 <div align="center">
-  <sub>ACM UOC · University of Crete · <a href="https://github.com/ACM-UOC">github.com/ACM-UOC</a></sub>
+  <sub>University of Crete ACM Student Chapter · <a href="https://github.com/ACM-UOC">github.com/ACM-UOC</a></sub>
 </div>
