@@ -57,6 +57,10 @@ Each subfolder ships the variable font(s) where available (or static cuts otherw
 - Export **PNG raster variants** at the sizes needed for the target use case. Standard sizes for logos are: `64×64`, `128×128`, `256×256`, `512×512`, `1024×1024`.
 - PDF exports are acceptable for print templates, in case providing an SVG is not an option.
 
+### Attribution
+
+Where possible, include a plain `CREDITS` file in the asset folder listing the original creator(s) and any subsequent contributors.
+
 ### Naming
 
 Use lowercase, hyphenated names. Include a size suffix for raster exports:
